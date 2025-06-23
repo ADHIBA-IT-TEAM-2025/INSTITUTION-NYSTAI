@@ -1,4 +1,4 @@
-export default function Home() {
+export default function Institution() {
   return (
     <main>
       <section id="home">
